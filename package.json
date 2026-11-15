@@ -1,0 +1,11 @@
+{
+  "name": "@aaaafgawrhrqdqqr/hello-lib",
+  "version": "1.0.0",
+  "description": "Sample package for GitHub Packages",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaaafgawrhrqdqqr/pkg-demo.git"
+  }
+}
